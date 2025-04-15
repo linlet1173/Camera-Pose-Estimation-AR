@@ -65,8 +65,8 @@ This is a camera pose estimation and AR project using openCV python. This projec
 ### File Structure
 
     ├── cv04.CPE&AR.py              # Main Python script
-    ├── chessboard.avi         # Input video
-    ├── ar_object.avi      # Output with AR overlay
+    ├── chessboard.avi              # Input video
+    ├── ar_object.avi               # Output with AR overlay
     ├── images/
     │   ├── chessboard.png
         ├── detection_image.png
